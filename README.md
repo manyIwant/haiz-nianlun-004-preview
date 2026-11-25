@@ -2,6 +2,11 @@
 
 > 以 PR #114（`NIANLUN 003 · 抽出一年`）的木质年轮、弹性抽离、滚动展开、校园天空与可逆交互为基础，将「只能承载天气的木带」进化为一套**多材质叠合、多尺度连续缩放、跨层可操作、真实持久化**的学生时间交互系统。
 
+- **独立公网 HTTPS 预览**：<https://manyiwant.github.io/haiz-nianlun-004-preview/>
+- **独立预览仓库**：<https://github.com/manyIwant/haiz-nianlun-004-preview>
+- **完整交互录屏**：[`shots/desktop-flow.mp4`](shots/desktop-flow.mp4) · [`shots/phone-flow.mp4`](shots/phone-flow.mp4)（动图预览：[`desktop-flow.gif`](shots/desktop-flow.gif) · [`phone-flow.gif`](shots/phone-flow.gif)）
+- **原版保护**：未改动 PR #114 原版目录 `experiments/nianlun-pull-a-year/` 或任何主站页面。
+
 ---
 
 ## 一、从「抽出一年」到「活木时光」的五项核心进化
